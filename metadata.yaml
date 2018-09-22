@@ -1,5 +1,8 @@
 _repo: The-Ways-of-Life-Two-Stories_55270
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 55270-h/images/cover.jpg
 creator:
   author:
     agent_name: Oliphant, Mrs. (Margaret)
@@ -14,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/963
     wikipedia: http://en.wikipedia.org/wiki/Margaret_Oliphant_Oliphant
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/55270#The-Ways-of-Life-Two-Stories
 gutenberg_issued: '2017-08-05'
 gutenberg_type: Text
 identifiers:
